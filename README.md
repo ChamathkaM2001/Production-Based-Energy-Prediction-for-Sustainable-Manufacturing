@@ -19,6 +19,7 @@ In the context of Unilever Sapugaskanda's production plant in Sri Lanka, the pro
 ### Data Sources
 ---
 The dataset for the project spans from mid-2017 to mid-2023 and focuses on the HFD plant, which produces Viva and Horlicks, comprising 18 stock-keeping units. It includes around 2500 records capturing daily production quantities and actual energy consumptions. Data sources encompass DB-Wise Electricity Data, Production Plans for Viva and Horlicks, On-Site Data Collection in 2023, Constant Values collected during factory visits, and Documented Data Transformation. These sources provide detailed insights into energy consumption patterns, production plans, and technical specifications of equipment, facilitating accurate estimation of energy usage during production processes. Discussions with Unilever management and on-site visits further enhance understanding and analysis reliability.
+
 - Data Sources:
 1.DB-Wise Electricity Data
 

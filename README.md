@@ -85,10 +85,10 @@ Develop a comprehensive long-term sustainability roadmap for integrating environ
 ---
 While proficient in capturing complex relationships within data, the Random Forest model has limitations:
 
--Handling Nonlinear Patterns:
+**Handling Nonlinear Patterns:**
 
 Challenges may arise in handling certain nonlinear patterns depending on the data's nature.
 
--Interpretability Concerns:
+**Interpretability Concerns:**
 
 Compared to simpler models like Multiple Linear Regression, the Random Forest model may have limited interpretability.
